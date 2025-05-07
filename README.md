@@ -3,13 +3,14 @@
 ## 🚀 About Me
 
 I'm a Software Engineering specialist.
-I'm a Generalist and my technical range is broad
+I'm a Generalist and my technical range is broad.
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently interested in AI and deep learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 🏠 I’d be happy to talk about work-from-home, remote opportunities.
 - 😄 Pronouns: Mr
 
 ## 🌐 Connect with Me
@@ -19,7 +20,7 @@ Feel free to reach out for collaborations, opportunities, or just to exchange id
 Let's innovate together!
 
 <!--[![Linkedin](https://img.shields.io/badge/M.D.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-dubois-prog/)-->
-[![GitHub Skyline]("https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-prog/md-prog)
+[![GitHub Skyline]("https://img.shields.io/badge/View%20on%20GitHub-0077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-prog/md-prog)
 
 ## 💻 Programming Languages
 
