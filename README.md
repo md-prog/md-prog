@@ -20,7 +20,7 @@ Feel free to reach out for collaborations, opportunities, or just to exchange id
 Let's innovate together!
 
 <!--[![Linkedin](https://img.shields.io/badge/M.D.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-dubois-prog/)-->
-[![GitHub Skyline]("https://img.shields.io/badge/View%20on%20GitHub-0077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-prog/md-prog)
+[![GitHub Skyline]("https://img.shields.io/badge/View%20on%20GitHub-0077B5?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-prog/md-prog)
 
 ## 💻 Programming Languages
 
