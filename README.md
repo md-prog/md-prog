@@ -6,10 +6,10 @@ I'm a Software Engineering specialist.
 I'm a Generalist and my technical range is broad.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently interested in AI and deep learning.
-<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
+- 🌱 I’m currently interested in AI and deep learning.
+- 👯 I’m looking to collaborate on startups.
 - 🏠 I’d be happy to talk about work-from-home, remote opportunities.
 - 😄 Pronouns: Mr
 
@@ -19,9 +19,8 @@ To connect with me, you can find my professional profile and contact details on 
 Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.
 Let's innovate together!
 
-<!--[![Linkedin](https://img.shields.io/badge/M.D.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-dubois-prog/)-->
-
-<a href="https://forms.gle/NATsqkuuvnxyC7yb9">
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-dubois-prog/)
+<a href="https://forms.gle/NATsqkuuvnxyC7yb9" target="_blank">
   <img alt="Google Form" src="https://img.shields.io/badge/Fill%20Google%20Form-DADC20?&style=for-the-badge&logo=&google-form&Color=white" />
 </a>
 
